@@ -1,4 +1,4 @@
-# cg_pyTurtleLib
+# cg_pyTurtleLib (python2/3 compatible!)
 Versatile Python Tkinter (turtle) based drawing code for displaying the game state, debugging physics simulations etc...
 
 ## Drawing functions
